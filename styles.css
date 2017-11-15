@@ -4,6 +4,10 @@ b{
 p{
     font-size: 120%;
 }
+body{
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Slabo 27px', serif;
+}
 
 .my-title{
   font-size:200%;
